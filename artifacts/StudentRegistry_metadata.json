@@ -273,7 +273,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/StudentRegistration.sol": "StudentRegistry"
+			"contracts/StudentRegistry.sol": "StudentRegistry"
 		},
 		"evmVersion": "osaka",
 		"libraries": {},
@@ -295,7 +295,7 @@
 				"dweb:/ipfs/Qmahw3pQT3GbRqNZsZFbQMPr268c7jQ9ErTzLGgvE7XLHN"
 			]
 		},
-		"contracts/StudentRegistration.sol": {
+		"contracts/StudentRegistry.sol": {
 			"keccak256": "0x1c63e094d8d2edb6576732d6c2c66fa21dd6296cecc3b548b9cd24b121e5db0a",
 			"license": "MIT",
 			"urls": [
